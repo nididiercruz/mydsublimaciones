@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Camiseta sublimada"><defs>
+<linearGradient id="a1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F59E0B"/><stop offset=".5" stop-color="#E11D48"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+<linearGradient id="b1" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+<linearGradient id="c1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBBF24"/><stop offset="1" stop-color="#F43F5E"/></linearGradient>
+<linearGradient id="s1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F1F5F9"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+</defs><ellipse cx="200" cy="362" rx="120" ry="12" fill="#0F172A" opacity=".09"/><path d="M138 62 L172 50 Q200 80 228 50 L262 62 L342 118 L312 172 L276 150 L276 336 Q276 346 266 346 L134 346 Q124 346 124 336 L124 150 L88 172 L58 118 Z" fill="url(#s1)" stroke="#CBD5E1" stroke-width="2"/>
+<path d="M172 50 Q200 80 228 50" fill="none" stroke="#CBD5E1" stroke-width="3"/><g transform="translate(200 200) scale(1.05)">
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#a1)"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#b1)" transform="rotate(72)" opacity=".92"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#c1)" transform="rotate(144)" opacity=".92"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#a1)" transform="rotate(216)" opacity=".9"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#b1)" transform="rotate(288)" opacity=".92"/>
+<circle r="11" fill="#0F172A"/><circle r="5" fill="#FBBF24"/></g></svg>

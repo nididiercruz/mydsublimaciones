@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Mug sublimado"><defs>
+<linearGradient id="a3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F59E0B"/><stop offset=".5" stop-color="#E11D48"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+<linearGradient id="b3" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+<linearGradient id="c3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBBF24"/><stop offset="1" stop-color="#F43F5E"/></linearGradient>
+<linearGradient id="s3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F1F5F9"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+</defs><ellipse cx="200" cy="362" rx="120" ry="12" fill="#0F172A" opacity=".09"/><path d="M262 140 Q326 140 326 206 Q326 272 262 272" fill="none" stroke="#E2E8F0" stroke-width="22" stroke-linecap="round"/>
+<path d="M262 140 Q326 140 326 206 Q326 272 262 272" fill="none" stroke="#CBD5E1" stroke-width="2" transform="translate(0 0)" opacity="0"/>
+<rect x="96" y="104" width="172" height="212" rx="20" fill="url(#s3)" stroke="#CBD5E1" stroke-width="2"/>
+<ellipse cx="182" cy="108" rx="86" ry="10" fill="#E2E8F0"/><g transform="translate(182 212) scale(0.95)">
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#a3)"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#b3)" transform="rotate(72)" opacity=".92"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#c3)" transform="rotate(144)" opacity=".92"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#a3)" transform="rotate(216)" opacity=".9"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#b3)" transform="rotate(288)" opacity=".92"/>
+<circle r="11" fill="#0F172A"/><circle r="5" fill="#FBBF24"/></g></svg>

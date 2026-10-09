@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Gorra sublimada"><defs>
+<linearGradient id="a2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F59E0B"/><stop offset=".5" stop-color="#E11D48"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+<linearGradient id="b2" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+<linearGradient id="c2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FBBF24"/><stop offset="1" stop-color="#F43F5E"/></linearGradient>
+<linearGradient id="s2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F1F5F9"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+</defs><ellipse cx="200" cy="362" rx="120" ry="12" fill="#0F172A" opacity=".09"/><path d="M96 232 Q92 112 200 104 Q308 112 304 232 Z" fill="url(#s2)" stroke="#CBD5E1" stroke-width="2"/>
+<path d="M92 232 Q210 206 340 250 Q330 284 252 268 Q170 248 92 246 Z" fill="#0F172A"/>
+<circle cx="200" cy="104" r="7" fill="#0F172A"/><g transform="translate(200 172) scale(0.62)">
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#a2)"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#b2)" transform="rotate(72)" opacity=".92"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#c2)" transform="rotate(144)" opacity=".92"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#a2)" transform="rotate(216)" opacity=".9"/>
+<ellipse cx="0" cy="-34" rx="16" ry="38" fill="url(#b2)" transform="rotate(288)" opacity=".92"/>
+<circle r="11" fill="#0F172A"/><circle r="5" fill="#FBBF24"/></g></svg>
